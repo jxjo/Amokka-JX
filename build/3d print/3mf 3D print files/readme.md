@@ -1,1 +1,1 @@
-Geometry files are in 3mf files. The Cura 4.13.1 project files start with "Cura" and also contain the geometry files. If geometry files are newer than Cura files, update the relevant files in the cura project.
+Most geometry files are in 3mf files. The Cura 4.13.1 project files start with "Cura" and also contain the geometry files. If geometry files are newer than Cura files, update the relevant files in the cura project.
